@@ -1,2 +1,2 @@
 # Python_Practice
-Repo containing all practice datasets.
+Repository to store sample python programs for python learning..
